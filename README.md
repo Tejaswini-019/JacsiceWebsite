@@ -1,4 +1,4 @@
-<h1>This is JACSICE college website</h1>
+
 ![image](https://github.com/Tejaswini-019/JacsiceWebsite/assets/113604656/00389048-a70a-4c2d-aea7-d223dd4505ea)
 ![image](https://github.com/Tejaswini-019/JacsiceWebsite/assets/113604656/6ab93e58-7e87-4b3b-bec6-1c6ab85038b8)
 ![image](https://github.com/Tejaswini-019/JacsiceWebsite/assets/113604656/a5fa89ab-522e-4b15-abd2-038fedafab28)
